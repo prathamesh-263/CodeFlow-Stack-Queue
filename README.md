@@ -1,6 +1,5 @@
 # CodeFlow-Stack-Queue
 C++ programs for Stack and Queue operations.
-CCE II – Stack and Queue Implementation Using C++
 
 1. Introduction
 
