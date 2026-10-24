@@ -214,7 +214,9 @@ This project demonstrates the implementation of Stack and Queue data structures 
 13. Student Details
 
 - Name: Prathamesh Arvind Wakchaure
-- Subject: DSA
-- Branch: Electronics and Communication Engineering (ECE)
 - Roll no:263
 - Div:B
+- Subject: DSA
+- Branch: Electronics and Communication Engineering (ECE)
+  
+  
