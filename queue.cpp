@@ -117,11 +117,11 @@ int main()
     int x;
     queue q;
 
-    q.enqueue(25);
-    q.enqueue(57);
-    q.enqueue(25);
-    q.enqueue(82);
-    q.enqueue(99);
+    q.enqueue(2);
+    q.enqueue(5);
+    q.enqueue(15);
+    q.enqueue(42);
+    q.enqueue(69);
 
     q.display();
 
