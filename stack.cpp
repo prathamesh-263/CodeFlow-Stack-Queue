@@ -71,12 +71,12 @@ int main()
     int x;
     Stack s;
 
-    if (!s.full()) s.push(12);
-    if (!s.full()) s.push(34);
-    if (!s.full()) s.push(56);
-    if (!s.full()) s.push(87);
-    if (!s.full()) s.push(92);
-    if (!s.full()) s.push(99);
+    if (!s.full()) s.push(1);
+    if (!s.full()) s.push(24);
+    if (!s.full()) s.push(36);
+    if (!s.full()) s.push(77);
+    if (!s.full()) s.push(80);
+    if (!s.full()) s.push(97);
 
     cout << "Stack elements:";
     s.display();
