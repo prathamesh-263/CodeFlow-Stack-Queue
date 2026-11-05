@@ -1,7 +1,29 @@
 1) Output for the Queue
-Queue elements: 2       5       15      42      69
+Queue elements: 
+2
+5       
+15      
+42     
+69
 Removed: 2
-Queue elements: 5       15      42      69
+Queue elements: 
+5      
+15     
+42      
+69
 Front element is: 5
 
 2) Output for the Queue
+Stack elements:
+80
+77
+36
+24
+1
+Removed: 80
+Stack after pop:
+77
+36
+24
+1
+Top element is: 77
