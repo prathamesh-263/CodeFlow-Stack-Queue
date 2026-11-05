@@ -1,0 +1,7 @@
+1) Output for the Queue
+Queue elements: 2       5       15      42      69
+Removed: 2
+Queue elements: 5       15      42      69
+Front element is: 5
+
+2) Output for the Queue
