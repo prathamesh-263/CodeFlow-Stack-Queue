@@ -217,6 +217,6 @@ This project demonstrates the implementation of Stack and Queue data structures 
 - Roll no:263
 - Div:B
 - Subject: DSA
-- Branch: Electronics and Communication Engineering (ECE)
+- Branch: Electronics and Computer Engineering (ECE)
   
   
